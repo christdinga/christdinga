@@ -19,7 +19,9 @@ I build statistical & ML models for crypto derivatives (options, futures) — wo
 **What I've done**
 
 — Finite Element simulations for structural vibration attenuation
+
 — ML-based crack detection from vibration signals
+
 — RL agents for options hedging
 
 ---

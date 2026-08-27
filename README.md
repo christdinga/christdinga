@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Christ
+# 👋 Hi , I'm Christ
 
 **Junior Quantitative Researcher | Applied Mathematics & Mechanics**
 

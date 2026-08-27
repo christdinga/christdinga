@@ -9,6 +9,7 @@ I build statistical & ML models for crypto derivatives (options, futures) — wo
 **Education**
 
 — Master's in Applied Math & CS (Data Science) — HSE University
+
   ```Thesis: Dynamic Hedging of Structured Products using Reinforcement Learning```
 
 — Specialist in Theoretical & Applied Mechanics — MGSU
